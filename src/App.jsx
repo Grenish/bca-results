@@ -9,10 +9,11 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/results" element={<Result />} />
-        <Route path="/developers" element={<Developers />} />
+        <Route path="/results" element={<Result />} exact/>
+        <Route path="/developers" element={<Developers />} exact/>
         <Route path="/loader" element={<Loader />} />
       </Routes>
+      <Footer />
     </>
   )
 }
