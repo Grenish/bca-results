@@ -11,11 +11,11 @@
   animation: bounce05 var(--duration) linear infinite;
 }
 
-.main{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .typewriter .slide {
