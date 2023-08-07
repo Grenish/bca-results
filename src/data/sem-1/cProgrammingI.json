@@ -1,0 +1,684 @@
+{
+  "marks": [
+    {
+      "REGNO": "202216079",
+      "INT": 28.2,
+      "UM": 27.5,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216002",
+      "INT": 21.0,
+      "UM": 15,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216003",
+      "INT": 35.0,
+      "UM": 40,
+      "TOT": 75.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216004",
+      "INT": 43.1,
+      "UM": 39.5,
+      "TOT": 83.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216005",
+      "INT": 25.3,
+      "UM": 16,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216007",
+      "INT": 40.6,
+      "UM": 45.5,
+      "TOT": 87.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216008",
+      "INT": 17.7,
+      "UM": 18,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216009",
+      "INT": 14.4,
+      "UM": 14,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216010",
+      "INT": 23.5,
+      "UM": 20.5,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216011",
+      "INT": 41.7,
+      "UM": 41,
+      "TOT": 83.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216012",
+      "INT": 25.2,
+      "UM": 17,
+      "TOT": 43.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216013",
+      "INT": 10.8,
+      "UM": 12.5,
+      "TOT": 24.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216015",
+      "INT": 22.8,
+      "UM": 13.5,
+      "TOT": 37.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216016",
+      "INT": 18.8,
+      "UM": 17,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216017",
+      "INT": 21.2,
+      "UM": 14.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216018",
+      "INT": 18.7,
+      "UM": 17,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216019",
+      "INT": 18.6,
+      "UM": 17,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216020",
+      "INT": 18.5,
+      "UM": 19,
+      "TOT": 38.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216022",
+      "INT": 27.0,
+      "UM": 24.5,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216023",
+      "INT": 19.2,
+      "UM": 20.5,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216024",
+      "INT": 29.6,
+      "UM": 25.5,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216025",
+      "INT": 25.3,
+      "UM": 22.5,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216026",
+      "INT": 32.4,
+      "UM": 30.5,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216027",
+      "INT": 19.0,
+      "UM": 16,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216028",
+      "INT": 24.2,
+      "UM": 33,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216029",
+      "INT": 16.7,
+      "UM": 5,
+      "TOT": 22.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216031",
+      "INT": 39.5,
+      "UM": 39.5,
+      "TOT": 79.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216032",
+      "INT": 29.1,
+      "UM": 22,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216034",
+      "INT": 23.6,
+      "UM": 14.5,
+      "TOT": 39.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216036",
+      "INT": 19.2,
+      "UM": 7.5,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216037",
+      "INT": 9.9,
+      "UM": 5.5,
+      "TOT": 16.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216038",
+      "INT": 22.5,
+      "UM": 13.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216039",
+      "INT": 39.0,
+      "UM": 40.5,
+      "TOT": 80.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216040",
+      "INT": 28.9,
+      "UM": 21,
+      "TOT": 50.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216041",
+      "INT": 23.6,
+      "UM": 24.5,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216042",
+      "INT": 27.8,
+      "UM": 19.5,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216043",
+      "INT": 11.5,
+      "UM": 11,
+      "TOT": 23.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216044",
+      "INT": 35.3,
+      "UM": 23.5,
+      "TOT": 59.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216045",
+      "INT": 17.8,
+      "UM": 8,
+      "TOT": 26.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216046",
+      "INT": 28.5,
+      "UM": 23.5,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216047",
+      "INT": 29.2,
+      "UM": 16,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216048",
+      "INT": 14.2,
+      "UM": 6,
+      "TOT": 21.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216049",
+      "INT": 23.3,
+      "UM": 12.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216050",
+      "INT": 11.0,
+      "UM": 7,
+      "TOT": 18.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216051",
+      "INT": 34.8,
+      "UM": 31.5,
+      "TOT": 67.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216052",
+      "INT": 17.3,
+      "UM": 7,
+      "TOT": 25.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216053",
+      "INT": 29.1,
+      "UM": 33,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216054",
+      "INT": 26.8,
+      "UM": 30,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216055",
+      "INT": 16.1,
+      "UM": 9,
+      "TOT": 26.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216056",
+      "INT": 19.2,
+      "UM": 7,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216057",
+      "INT": 24.0,
+      "UM": 15.5,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216058",
+      "INT": 19.0,
+      "UM": 16,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216059",
+      "INT": 31.6,
+      "UM": 20,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216060",
+      "INT": 25.2,
+      "UM": 23,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216061",
+      "INT": 22.7,
+      "UM": 18,
+      "TOT": 41.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216062",
+      "INT": 45.0,
+      "UM": 43.5,
+      "TOT": 89.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216063",
+      "INT": 40.8,
+      "UM": 39.5,
+      "TOT": 81.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216064",
+      "INT": 28.0,
+      "UM": 22.5,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216065",
+      "INT": 34.0,
+      "UM": 30,
+      "TOT": 64.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216066",
+      "INT": 31.7,
+      "UM": 27.5,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216067",
+      "INT": 21.0,
+      "UM": 5.5,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216068",
+      "INT": 19.1,
+      "UM": 7.5,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216069",
+      "INT": 25.9,
+      "UM": 13.5,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216070",
+      "INT": 11.5,
+      "UM": 3,
+      "TOT": 15.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216071",
+      "INT": 38.1,
+      "UM": 28.5,
+      "TOT": 67.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216072",
+      "INT": 36.8,
+      "UM": 22.5,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216073",
+      "INT": 28.0,
+      "UM": 20,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216074",
+      "INT": 32.8,
+      "UM": 23,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216076",
+      "INT": 27.7,
+      "UM": 24,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216077",
+      "INT": 16.6,
+      "UM": 11.5,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216078",
+      "INT": 29.8,
+      "UM": 22.5,
+      "TOT": 53.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216080",
+      "INT": 42.3,
+      "UM": 46,
+      "TOT": 89.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216081",
+      "INT": 40.1,
+      "UM": 45.5,
+      "TOT": 86.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216082",
+      "INT": 22.5,
+      "UM": 6.5,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216083",
+      "INT": 10.7,
+      "UM": 0.5,
+      "TOT": 12.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216084",
+      "INT": 15.3,
+      "UM": 15,
+      "TOT": 31.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216085",
+      "INT": 26.1,
+      "UM": 18.5,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216086",
+      "INT": 24.8,
+      "UM": 20,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216087",
+      "INT": 28.2,
+      "UM": 18.5,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216088",
+      "INT": 32.9,
+      "UM": 23.5,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216089",
+      "INT": 40.4,
+      "UM": 34,
+      "TOT": 75.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216090",
+      "INT": 16.6,
+      "UM": 4.5,
+      "TOT": 22.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216091",
+      "INT": 20.2,
+      "UM": 9,
+      "TOT": 30.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216092",
+      "INT": 12.0,
+      "UM": 3,
+      "TOT": 15.0,
+      "GRADE": "F",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    },
+    {
+      "REGNO": "202216094",
+      "INT": 16.1,
+      "UM": 19.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1102A C PROGRAMMING I"
+    }
+  ]
+}

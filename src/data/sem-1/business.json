@@ -1,0 +1,684 @@
+{
+  "marks": [
+    {
+      "REGNO": "202216079",
+      "INT": 33.2,
+      "UM": 28,
+      "TOT": 62.0,
+      "GRADE": "B",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216002",
+      "INT": 19.1,
+      "UM": 15,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216003",
+      "INT": 25.5,
+      "UM": 30,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216004",
+      "INT": 32.9,
+      "UM": 26,
+      "TOT": 59.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216005",
+      "INT": 25.4,
+      "UM": 21,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216007",
+      "INT": 37.2,
+      "UM": 23.5,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216008",
+      "INT": 18.6,
+      "UM": 15.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216009",
+      "INT": 22.8,
+      "UM": 20.5,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216010",
+      "INT": 20.3,
+      "UM": 19,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216011",
+      "INT": 27.3,
+      "UM": 30,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216012",
+      "INT": 28.3,
+      "UM": 20.5,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216013",
+      "INT": 21.5,
+      "UM": 19.5,
+      "TOT": 41.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216015",
+      "INT": 22.9,
+      "UM": 9,
+      "TOT": 32.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216016",
+      "INT": 23.4,
+      "UM": 21.5,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216017",
+      "INT": 24.4,
+      "UM": 11.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216018",
+      "INT": 22.1,
+      "UM": 17,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216019",
+      "INT": 18.6,
+      "UM": 10,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216020",
+      "INT": 18.6,
+      "UM": 21,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216022",
+      "INT": 20.8,
+      "UM": 14.5,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216023",
+      "INT": 21.1,
+      "UM": 13.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216024",
+      "INT": 27.0,
+      "UM": 27.5,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216025",
+      "INT": 32.4,
+      "UM": 33.5,
+      "TOT": 66.0,
+      "GRADE": "B",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216026",
+      "INT": 22.1,
+      "UM": 23.5,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216027",
+      "INT": 19.6,
+      "UM": 16,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216028",
+      "INT": 25.9,
+      "UM": 25.5,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216029",
+      "INT": 16.6,
+      "UM": 6,
+      "TOT": 23.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216031",
+      "INT": 31.7,
+      "UM": 20.5,
+      "TOT": 53.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216032",
+      "INT": 32.2,
+      "UM": 27.5,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216034",
+      "INT": 23.4,
+      "UM": 14.5,
+      "TOT": 38.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216036",
+      "INT": 17.5,
+      "UM": 14,
+      "TOT": 32.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216037",
+      "INT": 21.9,
+      "UM": 10,
+      "TOT": 32.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216038",
+      "INT": 22.4,
+      "UM": 15.5,
+      "TOT": 38.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216039",
+      "INT": 31.3,
+      "UM": 26,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216040",
+      "INT": 31.6,
+      "UM": 31,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216041",
+      "INT": 26.0,
+      "UM": 21.5,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216042",
+      "INT": 28.7,
+      "UM": 21,
+      "TOT": 50.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216043",
+      "INT": 19.2,
+      "UM": 11,
+      "TOT": 31.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216044",
+      "INT": 30.5,
+      "UM": 30,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216045",
+      "INT": 20.5,
+      "UM": 7.5,
+      "TOT": 28.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216046",
+      "INT": 27.5,
+      "UM": 28.5,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216047",
+      "INT": 28.1,
+      "UM": 22,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216048",
+      "INT": 22.4,
+      "UM": 21,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216049",
+      "INT": 20.1,
+      "UM": 15,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216050",
+      "INT": 13.4,
+      "UM": 12.5,
+      "TOT": 26.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216051",
+      "INT": 30.0,
+      "UM": 27.5,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216052",
+      "INT": 21.0,
+      "UM": 17.5,
+      "TOT": 39.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216053",
+      "INT": 30.3,
+      "UM": 30,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216054",
+      "INT": 29.1,
+      "UM": 29.5,
+      "TOT": 59.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216055",
+      "INT": 28.0,
+      "UM": 26,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216056",
+      "INT": 24.3,
+      "UM": 22.5,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216057",
+      "INT": 24.5,
+      "UM": 29,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216058",
+      "INT": 23.4,
+      "UM": 15,
+      "TOT": 39.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216059",
+      "INT": 32.8,
+      "UM": 28.5,
+      "TOT": 62.0,
+      "GRADE": "B",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216060",
+      "INT": 28.9,
+      "UM": 29,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216061",
+      "INT": 27.8,
+      "UM": 20.5,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216062",
+      "INT": 29.3,
+      "UM": 24.5,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216063",
+      "INT": 33.3,
+      "UM": 44,
+      "TOT": 78.0,
+      "GRADE": "A",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216064",
+      "INT": 31.5,
+      "UM": 25.5,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216065",
+      "INT": 31.6,
+      "UM": 22,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216066",
+      "INT": 30.5,
+      "UM": 30,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216067",
+      "INT": 15.0,
+      "UM": 12,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216068",
+      "INT": 25.1,
+      "UM": 26.5,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216069",
+      "INT": 22.6,
+      "UM": 19.75,
+      "TOT": 43.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216070",
+      "INT": 19.7,
+      "UM": 9,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216071",
+      "INT": 34.3,
+      "UM": 33.5,
+      "TOT": 68.0,
+      "GRADE": "B",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216072",
+      "INT": 33.7,
+      "UM": 24,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216073",
+      "INT": 24.2,
+      "UM": 19,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216074",
+      "INT": 33.5,
+      "UM": 22,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216076",
+      "INT": 26.5,
+      "UM": 24.5,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216077",
+      "INT": 23.9,
+      "UM": 18,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216078",
+      "INT": 33.4,
+      "UM": 23,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216080",
+      "INT": 37.2,
+      "UM": 37,
+      "TOT": 75.0,
+      "GRADE": "A",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216081",
+      "INT": 37.2,
+      "UM": 39,
+      "TOT": 77.0,
+      "GRADE": "A",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216082",
+      "INT": 27.7,
+      "UM": 11,
+      "TOT": 39.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216083",
+      "INT": 25.6,
+      "UM": 18.5,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216084",
+      "INT": 26.8,
+      "UM": 28.5,
+      "TOT": 56.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216085",
+      "INT": 26.0,
+      "UM": 20,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216086",
+      "INT": 24.2,
+      "UM": 29,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216087",
+      "INT": 30.9,
+      "UM": 28.5,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216088",
+      "INT": 30.2,
+      "UM": 27,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216089",
+      "INT": 27.8,
+      "UM": 28.5,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216090",
+      "INT": 26.6,
+      "UM": 14.5,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216091",
+      "INT": 21.4,
+      "UM": 16.5,
+      "TOT": 38.0,
+      "GRADE": "E",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216092",
+      "INT": 15.4,
+      "UM": 13.5,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    },
+    {
+      "REGNO": "202216094",
+      "INT": 11.3,
+      "UM": 16.5,
+      "TOT": 28.0,
+      "GRADE": "F",
+      "SUBJECT": "BA1138A BUSINESS"
+    }
+  ]
+}
