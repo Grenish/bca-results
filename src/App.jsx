@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Footer, Gpa, Form, Home, Result, Developers } from './components'
+import { Navbar, Footer, Gpa, Home, Result, Developers } from './components'
 import { GpaCalculator } from './Proto'
 import Loader from './loader/Loader'
 import { Route, Routes } from 'react-router-dom'
