@@ -87,7 +87,7 @@ const Result = () => {
 
           {showLoader && <Loader />}
           {tableData.length > 0 && !showLoader && (
-            <div className="mt-8 overflow-x-auto">
+            <div className="mt-8 h-auto overflow-x-auto">
               <h2 className="text-2xl font-bold">Table Data for ID: {id}</h2>
               <div className="sm:overflow-hidden">
                 <table className="table-auto w-full sm:w-auto mt-4">
