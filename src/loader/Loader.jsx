@@ -11,7 +11,12 @@ const Loader = () => {
         <div className={style.paper}></div>
         <div className={style.keyboard}></div>
       </div>
-      <div className="">Loading...</div>
+      <div class={style.spinner}>
+        Loading
+        <span>.</span>
+        <span>.</span>
+        <span>.</span>
+      </div>
     </div>
   );
 };
