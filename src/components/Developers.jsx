@@ -21,6 +21,9 @@ const Developers = () => {
               <h3 className="text-xl font-bold text-blue-700">
                 {developer.name}
               </h3>
+              <div className="">
+                <a href={developer.github} target="_blank">Github</a>
+              </div>
             </div>
           ))}
         </div>
