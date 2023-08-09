@@ -2,8 +2,10 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='p-4 flex justify-center items-center'>
-      <h1>Hari Patti, Aankhe Laal. Manipal.. Manipal</h1>
+    <div className='bg-gray-800 py-4'>
+      <div className='container mx-auto flex justify-center items-center'>
+        <h1 className='text-white text-xs'>2023 &copy; Exsolve</h1>
+      </div>
     </div>
   )
 }
