@@ -11,6 +11,7 @@ const Loader = () => {
         <div className={style.paper}></div>
         <div className={style.keyboard}></div>
       </div>
+      <div className="">Loading...</div>
     </div>
   );
 };
