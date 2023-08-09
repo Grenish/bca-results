@@ -45,13 +45,15 @@ const Result = () => {
     }, Math.floor(Math.random() * (5000 - 2000) + 2000));
   };
 
+  
+
   return (
-    <div>
-      <Link to="/" className="text-blue-500 hover:text-blue-700">
+    <div className="bg-gray-200">
+      <Link to="/" className="p-2">
         Go Back
       </Link>
 
-      <div className="bg-gray-200 min-h-screen flex items-center justify-center p-4">
+      <div className=" min-h-screen flex items-center justify-center p-4">
         <div className="bg-white p-8 rounded-md shadow-lg w-full sm:w-[50%]">
           <h2 className="text-2xl font-bold mb-4 text-center">Search Form</h2>
           <div className="mb-4">
@@ -125,13 +127,16 @@ const Result = () => {
                   </tbody>
                 </table>
               </div>
+              
             </div>
+            
           )}
           {!showLoader && tableData.length === 0 && id !== "" && (
             <div className="mt-4">
               <p className="text-red-500">For some reason, we couldn't load the data of {id} 😓</p>
             </div>
           )}
+          
         </div>
       </div>
     </div>
