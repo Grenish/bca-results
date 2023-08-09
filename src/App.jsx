@@ -1,5 +1,6 @@
 import React from 'react'
-import { Navbar, Footer, Cgpa, Form, Home, Result, Developers } from './components'
+import { Navbar, Footer, Gpa, Form, Home, Result, Developers } from './components'
+import { GpaCalculator } from './Proto'
 import Loader from './loader/Loader'
 import { Route, Routes } from 'react-router-dom'
 
@@ -12,6 +13,8 @@ const App = () => {
         <Route path="/results" element={<Result />} exact/>
         <Route path="/developers" element={<Developers />} exact/>
         <Route path="/loader" element={<Loader />} />
+        <Route path="/calc" element={<GpaCalculator />}/>
+        <Route path="/gpa" element={<Gpa />} exact/>
       </Routes>
       <Footer />
     </>
