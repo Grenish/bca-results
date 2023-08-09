@@ -54,19 +54,32 @@ const GpaCalculator = () => {
   };
 
   return (
-    <div>
-      <h2>GPA Calculator</h2>
-      <button onClick={handleAddCourse}>Add Course</button>
-      <button onClick={calculateGpa}>Calculate GPA</button>
-      <br />
-      <ul>
-        {Object.keys(collection).map((item) => (
-          <li key={item}>
-            {item}: {collection[item].grade} (Credits: {collection[item].credit})
-          </li>
-        ))}
-      </ul>
-      <h3>GPA: {gpa}</h3>
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+      <div className="bg-white p-6 rounded-lg shadow-md w-full max-w-lg">
+        <h2 className="text-2xl font-semibold mb-4">GPA Calculator</h2>
+        <div className="mb-4">
+          <button
+            onClick={handleAddCourse}
+            className="bg-blue-500 text-white rounded px-4 py-2 mr-2 hover:bg-blue-600"
+          >
+            Add Course
+          </button>
+          <button
+            onClick={calculateGpa}
+            className="bg-green-500 text-white rounded px-4 py-2 hover:bg-green-600"
+          >
+            Calculate GPA
+          </button>
+        </div>
+        <ul className="mb-4">
+          {Object.keys(collection).map((item) => (
+            <li key={item} className="mb-2">
+              {item}: {collection[item].grade} (Credits: {collection[item].credit})
+            </li>
+          ))}
+        </ul>
+        <h3 className="text-xl font-semibold">GPA: {gpa}</h3>
+      </div>
     </div>
   );
 };
