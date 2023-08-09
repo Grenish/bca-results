@@ -131,11 +131,7 @@ const Result = () => {
             </div>
             
           )}
-          {!showLoader && tableData.length === 0 && id !== "" && (
-            <div className="mt-4">
-              <p className="text-red-500">For some reason, we couldn't load the data of {id} 😓</p>
-            </div>
-          )}
+          
           
         </div>
       </div>
