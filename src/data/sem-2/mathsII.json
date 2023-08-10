@@ -1,599 +1,684 @@
 {
-    "mathsII": [
-        {
-            "REGNO": "202216002",
-            "INT": 21.00,
-            "UM": 13.5,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216003",
-            "INT": 31.40,
-            "UM": 17.5,
-            "TOT": 49.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216004",
-            "INT": 28.40,
-            "UM": 36,
-            "TOT": 65.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216005",
-            "INT": 12.70,
-            "UM": 10.5,
-            "TOT": 24.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216007",
-            "INT": 23.40,
-            "UM": 14,
-            "TOT": 38.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216008",
-            "INT": 16.40,
-            "UM": 5.5,
-            "TOT": 22.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216009",
-            "INT": 12.30,
-            "UM": 0,
-            "TOT": 13.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216010",
-            "INT": 19.30,
-            "UM": 16,
-            "TOT": 36.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216011",
-            "INT": 27.40,
-            "UM": 19,
-            "TOT": 47.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216012",
-            "INT": 19.70,
-            "UM": 3.5,
-            "TOT": 24.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216013",
-            "INT": 15.90,
-            "UM": 9.5,
-            "TOT": 26.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216015",
-            "INT": 17.90,
-            "UM": 11.5,
-            "TOT": 30.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216016",
-            "INT": 14.50,
-            "UM": 20,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216017",
-            "INT": 17.70,
-            "UM": 16.5,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216018",
-            "INT": 11.30,
-            "UM": 4.5,
-            "TOT": 16.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216019",
-            "INT": 2.60,
-            "UM": 12.5,
-            "TOT": 16.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216020",
-            "INT": 9.80,
-            "UM": 0,
-            "TOT": 10.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216022",
-            "INT": 22.20,
-            "UM": 12.5,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216023",
-            "INT": 1.00,
-            "UM": "AB",
-            "TOT": 0.00,
-            "GRADE": "I"
-        },
-        {
-            "REGNO": "202216024",
-            "INT": 10.00,
-            "UM": 17,
-            "TOT": 27.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216025",
-            "INT": 14.00,
-            "UM": 7,
-            "TOT": 21.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216026",
-            "INT": 30.70,
-            "UM": 32.5,
-            "TOT": 64.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216027",
-            "INT": 30.30,
-            "UM": 15.5,
-            "TOT": 46.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216028",
-            "INT": 14.50,
-            "UM": 4.5,
-            "TOT": 19.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216031",
-            "INT": 29.30,
-            "UM": 32.5,
-            "TOT": 62.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216032",
-            "INT": 14.20,
-            "UM": 4.5,
-            "TOT": 19.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216034",
-            "INT": 4.20,
-            "UM": 13,
-            "TOT": 18.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216037",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216038",
-            "INT": 18.80,
-            "UM": 5.5,
-            "TOT": 25.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216039",
-            "INT": 35.80,
-            "UM": 46,
-            "TOT": 82.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216040",
-            "INT": 28.40,
-            "UM": 19.5,
-            "TOT": 48.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216041",
-            "INT": 20.50,
-            "UM": 8,
-            "TOT": 29.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216042",
-            "INT": 40.70,
-            "UM": 30.5,
-            "TOT": 72.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216044",
-            "INT": 25.90,
-            "UM": 28.5,
-            "TOT": 55.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216045",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216046",
-            "INT": 21.00,
-            "UM": 20.5,
-            "TOT": 42.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216047",
-            "INT": 22.30,
-            "UM": 18.5,
-            "TOT": 41.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216048",
-            "INT": 9.80,
-            "UM": 0,
-            "TOT": 10.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216049",
-            "INT": 24.60,
-            "UM": 9.5,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216051",
-            "INT": 34.50,
-            "UM": 19,
-            "TOT": 54.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216052",
-            "INT": 16.90,
-            "UM": 12.5,
-            "TOT": 30.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216053",
-            "INT": 23.40,
-            "UM": 31.5,
-            "TOT": 55.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216054",
-            "INT": 19.90,
-            "UM": 15,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216055",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216056",
-            "INT": 32.60,
-            "UM": 19.5,
-            "TOT": 53.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216057",
-            "INT": 21.10,
-            "UM": 18,
-            "TOT": 40.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216058",
-            "INT": 13.90,
-            "UM": 15.5,
-            "TOT": 30.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216059",
-            "INT": 13.30,
-            "UM": 0,
-            "TOT": 14.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216060",
-            "INT": 23.10,
-            "UM": 13,
-            "TOT": 37.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216061",
-            "INT": 15.30,
-            "UM": 7,
-            "TOT": 23.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216062",
-            "INT": 30.40,
-            "UM": 38.5,
-            "TOT": 69.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216063",
-            "INT": 42.60,
-            "UM": 36.5,
-            "TOT": 80.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216064",
-            "INT": 9.30,
-            "UM": 2,
-            "TOT": 12.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216065",
-            "INT": 32.20,
-            "UM": 28,
-            "TOT": 61.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216066",
-            "INT": 17.10,
-            "UM": 17,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216067",
-            "INT": 10.60,
-            "UM": "AB",
-            "TOT": 0.00,
-            "GRADE": "I"
-        },
-        {
-            "REGNO": "202216068",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216069",
-            "INT": 16.80,
-            "UM": 17.5,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216071",
-            "INT": 36.20,
-            "UM": 28.5,
-            "TOT": 65.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216072",
-            "INT": 29.90,
-            "UM": 22,
-            "TOT": 52.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216073",
-            "INT": 24.10,
-            "UM": 19,
-            "TOT": 44.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216074",
-            "INT": 22.70,
-            "UM": 15.5,
-            "TOT": 39.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216076",
-            "INT": 31.60,
-            "UM": 20,
-            "TOT": 52.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216077",
-            "INT": 20.30,
-            "UM": 14,
-            "TOT": 35.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216078",
-            "INT": 23.60,
-            "UM": 17,
-            "TOT": 41.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216079",
-            "INT": 26.60,
-            "UM": 19,
-            "TOT": 46.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216080",
-            "INT": 41.80,
-            "UM": 31.5,
-            "TOT": 74.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216081",
-            "INT": 47.40,
-            "UM": 39.5,
-            "TOT": 87.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216082",
-            "INT": 13.40,
-            "UM": 5.5,
-            "TOT": 19.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216083",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216084",
-            "INT": 19.40,
-            "UM": 17,
-            "TOT": 37.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216085",
-            "INT": 5.30,
-            "UM": 1.5,
-            "TOT": 7.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216086",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216087",
-            "INT": 11.90,
-            "UM": 15.5,
-            "TOT": 28.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216088",
-            "INT": 26.80,
-            "UM": 17.5,
-            "TOT": 45.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216089",
-            "INT": 23.10,
-            "UM": 19.5,
-            "TOT": 43.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216090",
-            "INT": 16.80,
-            "UM": 1.5,
-            "TOT": 19.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216091",
-            "INT": 15.00,
-            "UM": 14,
-            "TOT": 29.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202216092",
-            "INT": 12.30,
-            "UM": 16.5,
-            "TOT": 29.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "201716018",
-            "INT": 8.50,
-            "UM": "AB",
-            "TOT": 0.00,
-            "GRADE": "I"
-        },
-        {
-            "REGNO": "201916020",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202116001",
-            "INT": 10.30,
-            "UM": 0,
-            "TOT": 11.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202116018",
-            "INT": 7.10,
-            "UM": 7,
-            "TOT": 15.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202116037",
-            "INT": 7.90,
-            "UM": 1,
-            "TOT": 9.00,
-            "GRADE": "F"
-        },
-        {
-            "REGNO": "202116040",
-            "INT": 6.80,
-            "UM": 2,
-            "TOT": 9.00,
-            "GRADE": "F"
-        }
-    ]
+  "marks2": [
+    {
+      "REGNO": "202216002",
+      "INT": 21.0,
+      "UM": 13.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216003",
+      "INT": 31.4,
+      "UM": 17.5,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216004",
+      "INT": 28.4,
+      "UM": 36,
+      "TOT": 65.0,
+      "GRADE": "B",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216005",
+      "INT": 12.7,
+      "UM": 10.5,
+      "TOT": 24.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216007",
+      "INT": 23.4,
+      "UM": 14,
+      "TOT": 38.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216008",
+      "INT": 16.4,
+      "UM": 5.5,
+      "TOT": 22.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216009",
+      "INT": 12.3,
+      "UM": 0,
+      "TOT": 13.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216010",
+      "INT": 19.3,
+      "UM": 16,
+      "TOT": 36.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216011",
+      "INT": 27.4,
+      "UM": 19,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216012",
+      "INT": 19.7,
+      "UM": 3.5,
+      "TOT": 24.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216013",
+      "INT": 15.9,
+      "UM": 9.5,
+      "TOT": 26.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216015",
+      "INT": 17.9,
+      "UM": 11.5,
+      "TOT": 30.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216016",
+      "INT": 14.5,
+      "UM": 20,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216017",
+      "INT": 17.7,
+      "UM": 16.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216018",
+      "INT": 11.3,
+      "UM": 4.5,
+      "TOT": 16.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216019",
+      "INT": 2.6,
+      "UM": 12.5,
+      "TOT": 16.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216020",
+      "INT": 9.8,
+      "UM": 0,
+      "TOT": 10.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216022",
+      "INT": 22.2,
+      "UM": 12.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216023",
+      "INT": 1.0,
+      "UM": "AB",
+      "TOT": 0.0,
+      "GRADE": "I",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216024",
+      "INT": 10.0,
+      "UM": 17,
+      "TOT": 27.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216025",
+      "INT": 14.0,
+      "UM": 7,
+      "TOT": 21.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216026",
+      "INT": 30.7,
+      "UM": 32.5,
+      "TOT": 64.0,
+      "GRADE": "B",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216027",
+      "INT": 30.3,
+      "UM": 15.5,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216028",
+      "INT": 14.5,
+      "UM": 4.5,
+      "TOT": 19.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216031",
+      "INT": 29.3,
+      "UM": 32.5,
+      "TOT": 62.0,
+      "GRADE": "B",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216032",
+      "INT": 14.2,
+      "UM": 4.5,
+      "TOT": 19.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216034",
+      "INT": 4.2,
+      "UM": 13,
+      "TOT": 18.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216037",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216038",
+      "INT": 18.8,
+      "UM": 5.5,
+      "TOT": 25.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216039",
+      "INT": 35.8,
+      "UM": 46,
+      "TOT": 82.0,
+      "GRADE": "S",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216040",
+      "INT": 28.4,
+      "UM": 19.5,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216041",
+      "INT": 20.5,
+      "UM": 8,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216042",
+      "INT": 40.7,
+      "UM": 30.5,
+      "TOT": 72.0,
+      "GRADE": "A",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216044",
+      "INT": 25.9,
+      "UM": 28.5,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216045",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216046",
+      "INT": 21.0,
+      "UM": 20.5,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216047",
+      "INT": 22.3,
+      "UM": 18.5,
+      "TOT": 41.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216048",
+      "INT": 9.8,
+      "UM": 0,
+      "TOT": 10.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216049",
+      "INT": 24.6,
+      "UM": 9.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216051",
+      "INT": 34.5,
+      "UM": 19,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216052",
+      "INT": 16.9,
+      "UM": 12.5,
+      "TOT": 30.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216053",
+      "INT": 23.4,
+      "UM": 31.5,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216054",
+      "INT": 19.9,
+      "UM": 15,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216055",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216056",
+      "INT": 32.6,
+      "UM": 19.5,
+      "TOT": 53.0,
+      "GRADE": "C",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216057",
+      "INT": 21.1,
+      "UM": 18,
+      "TOT": 40.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216058",
+      "INT": 13.9,
+      "UM": 15.5,
+      "TOT": 30.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216059",
+      "INT": 13.3,
+      "UM": 0,
+      "TOT": 14.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216060",
+      "INT": 23.1,
+      "UM": 13,
+      "TOT": 37.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216061",
+      "INT": 15.3,
+      "UM": 7,
+      "TOT": 23.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216062",
+      "INT": 30.4,
+      "UM": 38.5,
+      "TOT": 69.0,
+      "GRADE": "B",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216063",
+      "INT": 42.6,
+      "UM": 36.5,
+      "TOT": 80.0,
+      "GRADE": "S",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216064",
+      "INT": 9.3,
+      "UM": 2,
+      "TOT": 12.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216065",
+      "INT": 32.2,
+      "UM": 28,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216066",
+      "INT": 17.1,
+      "UM": 17,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216067",
+      "INT": 10.6,
+      "UM": "AB",
+      "TOT": 0.0,
+      "GRADE": "I",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216068",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216069",
+      "INT": 16.8,
+      "UM": 17.5,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216071",
+      "INT": 36.2,
+      "UM": 28.5,
+      "TOT": 65.0,
+      "GRADE": "B",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216072",
+      "INT": 29.9,
+      "UM": 22,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216073",
+      "INT": 24.1,
+      "UM": 19,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216074",
+      "INT": 22.7,
+      "UM": 15.5,
+      "TOT": 39.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216076",
+      "INT": 31.6,
+      "UM": 20,
+      "TOT": 52.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216077",
+      "INT": 20.3,
+      "UM": 14,
+      "TOT": 35.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216078",
+      "INT": 23.6,
+      "UM": 17,
+      "TOT": 41.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216079",
+      "INT": 26.6,
+      "UM": 19,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216080",
+      "INT": 41.8,
+      "UM": 31.5,
+      "TOT": 74.0,
+      "GRADE": "A",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216081",
+      "INT": 47.4,
+      "UM": 39.5,
+      "TOT": 87.0,
+      "GRADE": "S",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216082",
+      "INT": 13.4,
+      "UM": 5.5,
+      "TOT": 19.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216083",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216084",
+      "INT": 19.4,
+      "UM": 17,
+      "TOT": 37.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216085",
+      "INT": 5.3,
+      "UM": 1.5,
+      "TOT": 7.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216086",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216087",
+      "INT": 11.9,
+      "UM": 15.5,
+      "TOT": 28.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216088",
+      "INT": 26.8,
+      "UM": 17.5,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216089",
+      "INT": 23.1,
+      "UM": 19.5,
+      "TOT": 43.0,
+      "GRADE": "E",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216090",
+      "INT": 16.8,
+      "UM": 1.5,
+      "TOT": 19.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216091",
+      "INT": 15.0,
+      "UM": 14,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202216092",
+      "INT": 12.3,
+      "UM": 16.5,
+      "TOT": 29.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "201716018",
+      "INT": 8.5,
+      "UM": "AB",
+      "TOT": 0.0,
+      "GRADE": "I",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "201916020",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202116001",
+      "INT": 10.3,
+      "UM": 0,
+      "TOT": 11.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202116018",
+      "INT": 7.1,
+      "UM": 7,
+      "TOT": 15.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202116037",
+      "INT": 7.9,
+      "UM": 1,
+      "TOT": 9.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    },
+    {
+      "REGNO": "202116040",
+      "INT": 6.8,
+      "UM": 2,
+      "TOT": 9.0,
+      "GRADE": "F",
+      "SUBJECT": "MA1124A MATHS II"
+    }
+  ]
 }
