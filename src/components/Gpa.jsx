@@ -141,12 +141,6 @@ const Gpa = () => {
           <h3 className="text-xl font-semibold mt-4">GPA: {gpa}</h3>
         </div>
       </div>
-
-      <div className="flex flex-col items-center justify-center min-h-screen ">
-        <div className="bg-white p-6 rounded-lg shadow-md w-full md:w-auto">
-          
-        </div>
-      </div>
     </div>
   );
 };
