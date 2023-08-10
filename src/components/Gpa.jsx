@@ -80,9 +80,10 @@ const Gpa = () => {
                 key={index}
                 className="flex md:space-x-2 md:w-full p-1 gap-2 md:gap-0"
               >
+                
                 <input
                   type="text"
-                  placeholder="Course name"
+                  placeholder="Subject name"
                   className="border rounded w-full md:w-36 p-2 mb-2 md:mb-0"
                   value={field.name}
                   onChange={(e) =>
@@ -107,6 +108,7 @@ const Gpa = () => {
                   }
                   className="border rounded p-2 w-full md:w-14 mb-2 md:mb-0"
                 >
+                  <option value="credits" selected disabled>Credits</option>
                   <option value="1">1</option>
                   <option value="2">2</option>
                   <option value="3">3</option>
@@ -137,6 +139,12 @@ const Gpa = () => {
           </div>
 
           <h3 className="text-xl font-semibold mt-4">GPA: {gpa}</h3>
+        </div>
+      </div>
+
+      <div className="flex flex-col items-center justify-center min-h-screen ">
+        <div className="bg-white p-6 rounded-lg shadow-md w-full md:w-auto">
+          
         </div>
       </div>
     </div>
