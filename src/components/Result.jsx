@@ -9,43 +9,80 @@ import {
   html,
   htmlLab,
 } from "../data/sem-1";
+import {
+  cProgrammingII,
+  mathsII,
+  dbms,
+  dbmsLab,
+  cProgrammingIILab,
+  php,
+  phplabII,
+  pbl,
+} from "../data/sem-2";
 import { Loader } from "../loader";
 
 const Result = () => {
   const [id, setId] = useState("");
   const [tableData, setTableData] = useState([]);
   const [showLoader, setShowLoader] = useState(false);
+  const [selectedFolder, setSelectedFolder] = useState("");
 
   const handleIdChange = (event) => {
     setId(event.target.value);
   };
 
+  const handleFolderChange = (event) => {
+    setSelectedFolder(event.target.value);
+  };
+
   const handleSearch = () => {
     setShowLoader(true);
 
-    const data = [
-      business,
-      cProgrammingI,
-      fde,
-      mathsI,
-      html,
-      htmlLab,
-      cProgrammingLabI,
-    ];
+    let selectedData;
 
-    const filteredData = data
-      .map((subjectData) =>
-        subjectData.marks.filter((item) => item.REGNO === id)
-      )
+    if (selectedFolder === "Sem-1") {
+      selectedData = [
+        business,
+        cProgrammingI,
+        fde,
+        mathsI,
+        html,
+        htmlLab,
+        cProgrammingLabI,
+      ];
+    } else if (selectedFolder === "Sem-2") {
+      selectedData = [
+        cProgrammingII,
+        mathsII,
+        dbms,
+        php,
+        phplabII,
+        dbmsLab,
+        cProgrammingIILab,
+        pbl,
+      ];
+    }
+
+    const filteredData = selectedData
+      .map((subjectData) => {
+        console.log("subjectData:", subjectData);
+
+        const marks =
+          selectedFolder === "Sem-1" ? subjectData.marks : subjectData.marks2;
+
+        if (marks) {
+          return marks.filter((item) => item.REGNO === id);
+        }
+        return [];
+      })
       .flat();
+
 
     setTimeout(() => {
       setShowLoader(false);
       setTableData(filteredData);
     }, Math.floor(Math.random() * (5000 - 2000) + 2000));
   };
-
-  
 
   return (
     <div className="bg-gray-200">
@@ -69,15 +106,17 @@ const Result = () => {
               className="mt-1 p-2 border border-gray-300 rounded-md w-full focus:outline-none focus:border-blue-500"
               value={id}
               onChange={handleIdChange}
-              placeholder="E.g., 202301"
+              placeholder="Your Reg No."
             />
             <select
               name="semester"
               className="mt-2 p-2 border border-gray-300 rounded-md w-full focus:outline-none focus:border-blue-500"
+              value={selectedFolder}
+              onChange={handleFolderChange}
             >
-              <option value="">Select Semester</option>
-              <option value="Semester 1">Semester 1</option>
-              <option value="Semester 2">Semester 2</option>
+              <option>Select Semester</option>
+              <option value="Sem-1">Semester 1</option>
+              <option value="Sem-2">Semester 2</option>
             </select>
           </div>
           <button
@@ -127,12 +166,8 @@ const Result = () => {
                   </tbody>
                 </table>
               </div>
-              
             </div>
-            
           )}
-          
-          
         </div>
       </div>
     </div>
