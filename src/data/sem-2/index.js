@@ -3,7 +3,9 @@ import dbms from './dbms.json';
 import mathsII from './mathsII.json';
 import pbl from './pbl.json';
 import dbmsLab from './dbmsLab.json';
-import cProgrammingIILab from './cProgrammingIILab.json';
+import cProgrammingIILab from './cProgrammingLabII.json';
+import php from './php.json';
+import phplabII from './phplabII.json';
 
 export{
     cProgrammingII,
@@ -11,5 +13,7 @@ export{
     mathsII,
     pbl,
     dbmsLab,
-    cProgrammingIILab
+    cProgrammingIILab,
+    php,
+    phplabII
 }
