@@ -1,592 +1,676 @@
 {
-    "cProgrammingLabII": [
-        {
-            "REGNO": "202216002",
-            "INT": 42.25,
-            "UM": 15,
-            "TOT": 58.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216003",
-            "INT": 51.75,
-            "UM": 30,
-            "TOT": 82.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216004",
-            "INT": 53.00,
-            "UM": 34,
-            "TOT": 87.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216005",
-            "INT": 42.00,
-            "UM": 20,
-            "TOT": 62.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216007",
-            "INT": 43.50,
-            "UM": 39,
-            "TOT": 83.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216008",
-            "INT": 37.75,
-            "UM": 17,
-            "TOT": 55.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216009",
-            "INT": 29.25,
-            "UM": 17,
-            "TOT": 47.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216010",
-            "INT": 39.00,
-            "UM": 24,
-            "TOT": 63.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216011",
-            "INT": 46.50,
-            "UM": 25,
-            "TOT": 72.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216012",
-            "INT": 36.00,
-            "UM": 15,
-            "TOT": 51.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216013",
-            "INT": 36.75,
-            "UM": 16,
-            "TOT": 53.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216015",
-            "INT": 31.25,
-            "UM": 19,
-            "TOT": 51.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216016",
-            "INT": 28.00,
-            "UM": 19,
-            "TOT": 47.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216017",
-            "INT": 40.00,
-            "UM": 20,
-            "TOT": 60.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216018",
-            "INT": 30.00,
-            "UM": 19,
-            "TOT": 49.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216019",
-            "INT": 33.00,
-            "UM": 17,
-            "TOT": 50.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216020",
-            "INT": 29.00,
-            "UM": 18,
-            "TOT": 47.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216022",
-            "INT": 38.25,
-            "UM": 18,
-            "TOT": 57.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216023",
-            "INT": 27.75,
-            "UM": "AB",
-            "TOT": 0.00,
-            "GRADE": "I"
-        },
-        {
-            "REGNO": "202216024",
-            "INT": 51.50,
-            "UM": 40,
-            "TOT": 92.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216025",
-            "INT": 43.75,
-            "UM": 23,
-            "TOT": 67.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216026",
-            "INT": 35.25,
-            "UM": 34,
-            "TOT": 70.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216027",
-            "INT": 42.50,
-            "UM": 22,
-            "TOT": 65.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216028",
-            "INT": 30.50,
-            "UM": 24,
-            "TOT": 55.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216031",
-            "INT": 57.00,
-            "UM": 40,
-            "TOT": 97.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216032",
-            "INT": 30.75,
-            "UM": 19,
-            "TOT": 50.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216034",
-            "INT": 29.50,
-            "UM": 17,
-            "TOT": 47.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216037",
-            "INT": 28.25,
-            "UM": 13,
-            "TOT": 42.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216038",
-            "INT": 39.00,
-            "UM": 18,
-            "TOT": 57.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216039",
-            "INT": 54.50,
-            "UM": 39,
-            "TOT": 94.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216040",
-            "INT": 36.75,
-            "UM": 27,
-            "TOT": 64.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216041",
-            "INT": 38.50,
-            "UM": 33,
-            "TOT": 72.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216042",
-            "INT": 48.75,
-            "UM": 23,
-            "TOT": 72.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216044",
-            "INT": 39.00,
-            "UM": 22,
-            "TOT": 61.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216045",
-            "INT": 0.00,
-            "UM": "DT",
-            "TOT": 0.00,
-            "GRADE": "DT"
-        },
-        {
-            "REGNO": "202216046",
-            "INT": 40.75,
-            "UM": 25,
-            "TOT": 66.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216047",
-            "INT": 41.25,
-            "UM": 17,
-            "TOT": 59.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216048",
-            "INT": 28.75,
-            "UM": 17,
-            "TOT": 46.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216049",
-            "INT": 38.25,
-            "UM": 19,
-            "TOT": 58.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216051",
-            "INT": 55.50,
-            "UM": 18,
-            "TOT": 74.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216052",
-            "INT": 37.75,
-            "UM": 19,
-            "TOT": 57.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216053",
-            "INT": 45.50,
-            "UM": 20,
-            "TOT": 66.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216054",
-            "INT": 40.00,
-            "UM": 17,
-            "TOT": 57.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216055",
-            "INT": 26.00,
-            "UM": 18,
-            "TOT": 44.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216056",
-            "INT": 43.25,
-            "UM": 19,
-            "TOT": 63.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216057",
-            "INT": 42.75,
-            "UM": 21,
-            "TOT": 64.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216058",
-            "INT": 27.00,
-            "UM": 18,
-            "TOT": 45.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216059",
-            "INT": 44.75,
-            "UM": 22,
-            "TOT": 67.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216060",
-            "INT": 44.00,
-            "UM": 20,
-            "TOT": 64.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216061",
-            "INT": 38.50,
-            "UM": 19,
-            "TOT": 58.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216062",
-            "INT": 40.00,
-            "UM": 37,
-            "TOT": 77.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216063",
-            "INT": 53.75,
-            "UM": 22,
-            "TOT": 76.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216064",
-            "INT": 28.25,
-            "UM": 15,
-            "TOT": 44.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216065",
-            "INT": 53.25,
-            "UM": 33,
-            "TOT": 87.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216066",
-            "INT": 38.75,
-            "UM": 21,
-            "TOT": 60.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216067",
-            "INT": 29.50,
-            "UM": 19,
-            "TOT": 49.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216068",
-            "INT": 28.25,
-            "UM": 19,
-            "TOT": 48.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216069",
-            "INT": 38.00,
-            "UM": 20,
-            "TOT": 58.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216071",
-            "INT": 49.50,
-            "UM": 19,
-            "TOT": 69.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216072",
-            "INT": 50.25,
-            "UM": 31,
-            "TOT": 82.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216073",
-            "INT": 38.25,
-            "UM": 20,
-            "TOT": 59.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216074",
-            "INT": 42.75,
-            "UM": 20,
-            "TOT": 63.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216076",
-            "INT": 43.25,
-            "UM": 19,
-            "TOT": 63.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216077",
-            "INT": 33.25,
-            "UM": 17,
-            "TOT": 51.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216078",
-            "INT": 36.25,
-            "UM": 18,
-            "TOT": 55.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216079",
-            "INT": 44.50,
-            "UM": 18,
-            "TOT": 63.00,
-            "GRADE": "B"
-        },
-        {
-            "REGNO": "202216080",
-            "INT": 57.75,
-            "UM": 38,
-            "TOT": 96.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216081",
-            "INT": 58.25,
-            "UM": 38,
-            "TOT": 97.00,
-            "GRADE": "S"
-        },
-        {
-            "REGNO": "202216082",
-            "INT": 32.50,
-            "UM": 17,
-            "TOT": 50.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216083",
-            "INT": 26.00,
-            "UM": 17,
-            "TOT": 43.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216084",
-            "INT": 31.25,
-            "UM": 17,
-            "TOT": 49.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216085",
-            "INT": 26.50,
-            "UM": 17,
-            "TOT": 44.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216086",
-            "INT": 29.00,
-            "UM": 17,
-            "TOT": 46.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216087",
-            "INT": 26.00,
-            "UM": 17,
-            "TOT": 43.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202216088",
-            "INT": 41.75,
-            "UM": 31,
-            "TOT": 73.00,
-            "GRADE": "A"
-        },
-        {
-            "REGNO": "202216089",
-            "INT": 32.75,
-            "UM": 29,
-            "TOT": 62.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202216090",
-            "INT": 35.00,
-            "UM": 16,
-            "TOT": 51.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216091",
-            "INT": 34.50,
-            "UM": 14,
-            "TOT": 49.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202216092",
-            "INT": 26.50,
-            "UM": 14,
-            "TOT": 41.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202116001",
-            "INT": 33.25,
-            "UM": 17,
-            "TOT": 51.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202116018",
-            "INT": 34.50,
-            "UM": 19,
-            "TOT": 54.00,
-            "GRADE": "C"
-        },
-        {
-            "REGNO": "202116024",
-            "INT": 28.25,
-            "UM": 15,
-            "TOT": 44.00,
-            "GRADE": "D"
-        },
-        {
-            "REGNO": "202116037",
-            "INT": 26.75,
-            "UM": 15,
-            "TOT": 42.00,
-            "GRADE": "E"
-        },
-        {
-            "REGNO": "202116040",
-            "INT": 30.00,
-            "UM": 17,
-            "TOT": 47.00,
-            "GRADE": "D"
-        }
-    ]
+  "marks2": [
+    {
+      "REGNO": "202216002",
+      "INT": 42.25,
+      "UM": 15,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216003",
+      "INT": 51.75,
+      "UM": 30,
+      "TOT": 82.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216004",
+      "INT": 53.0,
+      "UM": 34,
+      "TOT": 87.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216005",
+      "INT": 42.0,
+      "UM": 20,
+      "TOT": 62.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216007",
+      "INT": 43.5,
+      "UM": 39,
+      "TOT": 83.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216008",
+      "INT": 37.75,
+      "UM": 17,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216009",
+      "INT": 29.25,
+      "UM": 17,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216010",
+      "INT": 39.0,
+      "UM": 24,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216011",
+      "INT": 46.5,
+      "UM": 25,
+      "TOT": 72.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216012",
+      "INT": 36.0,
+      "UM": 15,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216013",
+      "INT": 36.75,
+      "UM": 16,
+      "TOT": 53.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216015",
+      "INT": 31.25,
+      "UM": 19,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216016",
+      "INT": 28.0,
+      "UM": 19,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216017",
+      "INT": 40.0,
+      "UM": 20,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216018",
+      "INT": 30.0,
+      "UM": 19,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216019",
+      "INT": 33.0,
+      "UM": 17,
+      "TOT": 50.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216020",
+      "INT": 29.0,
+      "UM": 18,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216022",
+      "INT": 38.25,
+      "UM": 18,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216023",
+      "INT": 27.75,
+      "UM": "AB",
+      "TOT": 0.0,
+      "GRADE": "I",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216024",
+      "INT": 51.5,
+      "UM": 40,
+      "TOT": 92.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216025",
+      "INT": 43.75,
+      "UM": 23,
+      "TOT": 67.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216026",
+      "INT": 35.25,
+      "UM": 34,
+      "TOT": 70.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216027",
+      "INT": 42.5,
+      "UM": 22,
+      "TOT": 65.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216028",
+      "INT": 30.5,
+      "UM": 24,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216031",
+      "INT": 57.0,
+      "UM": 40,
+      "TOT": 97.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216032",
+      "INT": 30.75,
+      "UM": 19,
+      "TOT": 50.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216034",
+      "INT": 29.5,
+      "UM": 17,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216037",
+      "INT": 28.25,
+      "UM": 13,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216038",
+      "INT": 39.0,
+      "UM": 18,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216039",
+      "INT": 54.5,
+      "UM": 39,
+      "TOT": 94.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216040",
+      "INT": 36.75,
+      "UM": 27,
+      "TOT": 64.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216041",
+      "INT": 38.5,
+      "UM": 33,
+      "TOT": 72.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216042",
+      "INT": 48.75,
+      "UM": 23,
+      "TOT": 72.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216044",
+      "INT": 39.0,
+      "UM": 22,
+      "TOT": 61.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216045",
+      "INT": 0.0,
+      "UM": "DT",
+      "TOT": 0.0,
+      "GRADE": "DT",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216046",
+      "INT": 40.75,
+      "UM": 25,
+      "TOT": 66.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216047",
+      "INT": 41.25,
+      "UM": 17,
+      "TOT": 59.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216048",
+      "INT": 28.75,
+      "UM": 17,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216049",
+      "INT": 38.25,
+      "UM": 19,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216051",
+      "INT": 55.5,
+      "UM": 18,
+      "TOT": 74.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216052",
+      "INT": 37.75,
+      "UM": 19,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216053",
+      "INT": 45.5,
+      "UM": 20,
+      "TOT": 66.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216054",
+      "INT": 40.0,
+      "UM": 17,
+      "TOT": 57.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216055",
+      "INT": 26.0,
+      "UM": 18,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216056",
+      "INT": 43.25,
+      "UM": 19,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216057",
+      "INT": 42.75,
+      "UM": 21,
+      "TOT": 64.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216058",
+      "INT": 27.0,
+      "UM": 18,
+      "TOT": 45.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216059",
+      "INT": 44.75,
+      "UM": 22,
+      "TOT": 67.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216060",
+      "INT": 44.0,
+      "UM": 20,
+      "TOT": 64.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216061",
+      "INT": 38.5,
+      "UM": 19,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216062",
+      "INT": 40.0,
+      "UM": 37,
+      "TOT": 77.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216063",
+      "INT": 53.75,
+      "UM": 22,
+      "TOT": 76.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216064",
+      "INT": 28.25,
+      "UM": 15,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216065",
+      "INT": 53.25,
+      "UM": 33,
+      "TOT": 87.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216066",
+      "INT": 38.75,
+      "UM": 21,
+      "TOT": 60.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216067",
+      "INT": 29.5,
+      "UM": 19,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216068",
+      "INT": 28.25,
+      "UM": 19,
+      "TOT": 48.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216069",
+      "INT": 38.0,
+      "UM": 20,
+      "TOT": 58.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216071",
+      "INT": 49.5,
+      "UM": 19,
+      "TOT": 69.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216072",
+      "INT": 50.25,
+      "UM": 31,
+      "TOT": 82.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216073",
+      "INT": 38.25,
+      "UM": 20,
+      "TOT": 59.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216074",
+      "INT": 42.75,
+      "UM": 20,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216076",
+      "INT": 43.25,
+      "UM": 19,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216077",
+      "INT": 33.25,
+      "UM": 17,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216078",
+      "INT": 36.25,
+      "UM": 18,
+      "TOT": 55.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216079",
+      "INT": 44.5,
+      "UM": 18,
+      "TOT": 63.0,
+      "GRADE": "B",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216080",
+      "INT": 57.75,
+      "UM": 38,
+      "TOT": 96.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216081",
+      "INT": 58.25,
+      "UM": 38,
+      "TOT": 97.0,
+      "GRADE": "S",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216082",
+      "INT": 32.5,
+      "UM": 17,
+      "TOT": 50.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216083",
+      "INT": 26.0,
+      "UM": 17,
+      "TOT": 43.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216084",
+      "INT": 31.25,
+      "UM": 17,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216085",
+      "INT": 26.5,
+      "UM": 17,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216086",
+      "INT": 29.0,
+      "UM": 17,
+      "TOT": 46.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216087",
+      "INT": 26.0,
+      "UM": 17,
+      "TOT": 43.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216088",
+      "INT": 41.75,
+      "UM": 31,
+      "TOT": 73.0,
+      "GRADE": "A",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216089",
+      "INT": 32.75,
+      "UM": 29,
+      "TOT": 62.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216090",
+      "INT": 35.0,
+      "UM": 16,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216091",
+      "INT": 34.5,
+      "UM": 14,
+      "TOT": 49.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202216092",
+      "INT": 26.5,
+      "UM": 14,
+      "TOT": 41.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202116001",
+      "INT": 33.25,
+      "UM": 17,
+      "TOT": 51.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202116018",
+      "INT": 34.5,
+      "UM": 19,
+      "TOT": 54.0,
+      "GRADE": "C",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202116024",
+      "INT": 28.25,
+      "UM": 15,
+      "TOT": 44.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202116037",
+      "INT": 26.75,
+      "UM": 15,
+      "TOT": 42.0,
+      "GRADE": "E",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    },
+    {
+      "REGNO": "202116040",
+      "INT": 30.0,
+      "UM": 17,
+      "TOT": 47.0,
+      "GRADE": "D",
+      "SUBJECT": "CA1404A C PROGRAMMING II LAB"
+    }
+  ]
 }
